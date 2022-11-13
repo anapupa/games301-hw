@@ -32,3 +32,5 @@
 *.swp
 
 build/*
+cmake-build-*
+.idea/
